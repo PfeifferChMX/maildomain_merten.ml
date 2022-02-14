@@ -5,3 +5,5 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: /:year/:month/:day/:title:output_ext/index.html
 themeBGimage: https://template.pc-cdn.de/assets/bg-images/2009_03_29Colocasia_esculenta467.jpg
 impress: impressummrtn
+author: Familie Merten
+since: 2021
